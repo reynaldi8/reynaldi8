@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=140&text=Hi,%20I'm%20Reynaldi&fontSize=46&fontColor=0f172a&fontAlignY=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=20&descAlignY=60&descColor=0f172a&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:93c5fd,100:e0f2fe&height=90&text=Hi,%20I'm%20Reynaldi&fontSize=36&fontColor=0f172a&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=18&descAlignY=70&descColor=0f172a&section=header" />
 
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in **data analysis and business intelligence**.  
