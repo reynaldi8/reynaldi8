@@ -24,10 +24,10 @@ I enjoy working with data-driven problems, identifying patterns, and communicati
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 - **Data Analysis:** Excel (Advanced), SQL (Advanced)
 - **Visualization:** Power BI (Advanced), Tableau
@@ -65,14 +65,15 @@ I enjoy working with data-driven problems, identifying patterns, and communicati
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reynaldi8&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldi8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldi8&theme=react&show_icons=true&)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=reynaldi8&theme=react&card_width=470)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldi8&card_width=495&langs_count=7&layout=compact&theme=react)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@reynaldi8&langs_count=7&layout=compact&theme=react)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffe6,0:ffff8a&height=100&section=footer" />
 
 ---
 
