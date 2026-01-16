@@ -1,12 +1,4 @@
-<img src="https://capsule-render.vercel.app/api
-?type=waving
-&color=0:93c5fd,100:e0f2fe
-&height=150
-&text=Hi,%20I'm%20Reynaldi
-&fontSize=48
-&fontColor=0f172a
-&animation=twinkling
-&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=48&fontColor=0f172a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=24&descAlignY=85&section=header" />
 
 <p align="center"><b>Data Analyst · Business Intelligence Enthusiast</b></p>
 
