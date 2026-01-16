@@ -9,12 +9,12 @@ My core strengths lie in **data processing, analysis, and visualization**, using
 
 ### 📫 Connect with Me
 
-[![Mail Badge](https://img.shields.io/badge/-Email-2563eb?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Mail Badge](https://img.shields.io/badge/-Email-2563eb?style=flat&logo=gmail&logoColor=white)](mailto:reynaldi.v8@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldi8)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link)
 
-[![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=2563eb)](https://github.com/yourusername)
-[![](https://img.shields.io/github/followers/yourusername?label=GitHub%20Followers)](https://github.com/yourusername)
+[![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=2563eb)](https://github.com/reynaldi8)
+[![](https://img.shields.io/github/followers/yourusername?label=GitHub%20Followers)](https://github.com/reynaldi8)
 
 ---
 
