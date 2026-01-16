@@ -1,16 +1,46 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=48&fontColor=0f172a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=24&descAlignY=85&section=header" />
 
-<!--
-**reynaldi8/reynaldi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Reynaldi**, a Management student at **President University** with a strong interest in **data analysis and business intelligence**.  
+I specialize in transforming raw data into **actionable insights** that support strategic decision-making.
 
-Here are some ideas to get you started:
+My core strengths lie in **data processing, analysis, and visualization**, using tools such as **Excel, SQL, Python, Power BI, and Tableau**. I enjoy working with data-driven problems, identifying patterns, and communicating insights clearly through dashboards and reports. As an adaptive learner, I continuously improve my analytical skills to stay aligned with industry needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-Email-2563eb?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link)
+
+[![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=2563eb)](https://github.com/yourusername)
+[![](https://img.shields.io/github/followers/yourusername?label=GitHub%20Followers)](https://github.com/yourusername)
+
+---
+
+### 🧠 Core Skills
+
+![My Skills](https://skillicons.dev/icons?perline=8&i=excel,python,mysql,postgres,sqlite)
+
+- **Data Analysis:** Excel (Advanced), SQL (Intermediated) 
+- **Visualization:** Power BI, Tableau  
+- **Programming:** Python (Pandas, NumPy)  
+- **Analytics:** Data Cleaning, Exploratory Data Analysis, Dashboarding
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Tools](https://skillicons.dev/icons?i=powerbi,tableau,vscode,github,notion)
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:e0f2fe,0:93c5fd&height=100&section=footer" />
