@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff8a,100:ffffe6&height=150&text=Hi,%20I'm%20reynaldi&fontSize=50&fontColor=fbe400&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%
+
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in **data analysis and business intelligence**.  
 I specialize in transforming raw data into **actionable insights** that support strategic decision-making.
