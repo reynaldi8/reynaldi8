@@ -28,11 +28,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-- **Data Analysis:** Excel (Advanced), SQL (Advanced)
-- **Visualization:** Power BI (Advanced), Tableau
-- **Programming:** Python (Pandas, NumPy)
-- **Analytics:** Data Cleaning, EDA, Dashboarding
-
 ---
 
 ### Tools
