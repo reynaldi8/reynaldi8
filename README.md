@@ -1,6 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=48&fontColor=0f172a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=24&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api
+?type=waving
+&color=0:93c5fd,100:e0f2fe
+&height=150
+&text=Hi,%20I'm%20Reynaldi
+&fontSize=48
+&fontColor=0f172a
+&animation=twinkling
+&section=header" />
 
-<h3 align="center">Data Analyst · Business Intelligence Enthusiast</h3>
+<p align="center"><b>Data Analyst · Business Intelligence Enthusiast</b></p>
+
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in **data analysis and business intelligence**.  
 I specialize in transforming raw data into **actionable insights** that support strategic decision-making.
