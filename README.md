@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=30&descAlignY=85&section=header" />
 
 
-I'm **Reynaldi**, a Management student at **President University** with a strong interest in **data analysis and business intelligence**.  
-I specialize in transforming raw data into **actionable insights** that support strategic decision-making.
+I'm **Reynaldi**, a Management student at **President University** with a strong interest in data analytics, particularly in transforming data into valuable insights for business decision-making. I am experienced in working with data using tools such as Excel, SQL, and basic data visualization, and I have a solid understanding of business analysis, problem-solving, and data-driven consumer behavior.
 
-My core strengths lie in **data processing, analysis, and visualization**, using **Excel, SQL, Python, Power BI, and Tableau**.  
-I enjoy working with data-driven problems, identifying patterns, and communicating insights clearly through dashboards and reports.
+My career goal is to become a Data Analyst who can bridge the gap between data and strategy, helping organizations improve efficiency, decision accuracy, and sustainable growth through data-driven approaches.
+
+“Good data doesn’t just answer questions — it opens opportunities.”
 
 ---
 
