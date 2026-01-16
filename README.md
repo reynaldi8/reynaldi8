@@ -20,12 +20,11 @@ I enjoy working with data-driven problems, identifying patterns, and communicati
 
 ### Skills
 
-### Data & Programming
 ![Python](https://skillicons.dev/icons?i=python)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Google Sheets](https://skillicons.dev/icons?i=googlecloud)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
