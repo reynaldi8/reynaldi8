@@ -1,16 +1,5 @@
-<img src="https://capsule-render.vercel.app/api
-?type=rect
-&color=0:bbb87a,100:8a8a6a
-&height=120
-&text=Hi,%20I'm%20Reynaldi
-&fontSize=42
-&fontColor=ffeb3b
-&fontAlignY=45
-&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast
-&descSize=20
-&descAlignY=78
-&animation=fadeIn
-&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=140&text=Hi,%20I'm%20Reynaldi&fontSize=46&fontColor=0f172a&fontAlignY=42&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Enthusiast&descSize=22&descAlignY=72&animation=twinkling&section=header" />
+
 
 
 
