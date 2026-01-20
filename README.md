@@ -21,12 +21,11 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Google Sheets](https://skillicons.dev/icons?i=googlesheets)
-![Excel](https://skillicons.dev/icons?i=excel)
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 
 
 
