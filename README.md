@@ -29,6 +29,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
 
 
+
 ---
 
 ### Tools
