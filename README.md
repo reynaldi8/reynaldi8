@@ -21,8 +21,8 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=SQLserver)
-![SQLite](https://skillicons.dev/icons?i=PostgreSQL)
+![SQLserver](https://skillicons.dev/icons?i=sqlserver)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
