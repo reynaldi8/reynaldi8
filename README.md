@@ -68,7 +68,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldi8&card_width=495&langs_count=7&layout=compact&theme=react)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@reynaldi8&langs_count=7&layout=compact&theme=react)
+![WakaTime stats](![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=reynaldi8&theme=dark))
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:ffffe6,0:ffff8a&height=100&section=footer" />
 
