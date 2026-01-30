@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7c%20Business%20Analyst%&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7c%20Business%20Analyst%&descSize=30&descAlignY=85&stroke=none&strokeWidth=0" />
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in data analytics, particularly in transforming data into valuable insights for business decision-making. I am experienced in working with data using tools such as Excel, SQL, and data visualization, and I have a solid understanding of business analysis, problem-solving, and data-driven consumer behavior.
 
@@ -77,22 +77,4 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## ⏱️ WakaTime Coding Stats
-
-<p align="center">
-  <a href="https://wakatime.com/@reynaldi8">
-    <img src="https://wakatime.com/badge/user/018dfa31-cf7e-47b9-a5e6-f0a01fd04ec6.svg" alt="Total time coded" />
-  </a>
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reynaldi8&label=Profile%20Views&color=2563eb" alt="Profile Views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=100:e0f2fe,0:93c5fd&height=100&section=footer" />
+##
