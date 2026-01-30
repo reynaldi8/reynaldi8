@@ -77,8 +77,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### ⏱️ WakaTime Coding Stats
-
 <p align="center">
   <a href="https://wakatime.com/@reynaldi8">
     <img src="https://wakatime.com/badge/user/018dfa31-cf7e-47b9-a5e6-f0a01fd04ec6.svg" alt="Total time coded" />
