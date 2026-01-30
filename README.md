@@ -6,7 +6,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 "Good data doesn't just answer questions — it opens opportunities."
 
-<h2 style="border-bottom: none;">🌐 Connect with Me</h2>
+ style="border-bottom: none;">🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi.main@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldi8)
