@@ -1,17 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7c%20Business%20Analyst%&descSize=30&descAlignY=85&stroke=none&strokeWidth=0" />
+<div align="center">
+  <h1 style="color: #2563eb; font-size: 48px; margin-bottom: 10px;">Hi, I'm Reynaldi</h1>
+  <h3 style="color: #60a5fa; font-size: 24px;">Data Analyst | BI Analyst | Business Analyst</h3>
+</div>
+
+<br>
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in data analytics, particularly in transforming data into valuable insights for business decision-making. I am experienced in working with data using tools such as Excel, SQL, and data visualization, and I have a solid understanding of business analysis, problem-solving, and data-driven consumer behavior.
 
 My career goal is to become a Data Analyst who can bridge the gap between data and strategy, helping organizations improve efficiency, decision accuracy, and sustainable growth through data-driven approaches.
 
-"Good data doesn't just answer questions — it opens opportunities."
+> "Good data doesn't just answer questions — it opens opportunities."
+
+<br>
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi.main@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldi8)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reynaldi8)
-[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com/reynaldi8) 
+<p align="center">
+  <a href="mailto:reynaldi.main@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/reynaldi8"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/reynaldi8"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://tableau.com/reynaldi8"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+</p>
+
+<br>
 
 ## 🛠 Skills
 
@@ -22,7 +33,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoftmicrosoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoftmicrosoftsqlserver&logoColor=white" />
 </p>
 
 ### 📊 Data Visualization & BI  
@@ -40,18 +51,23 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
+<br>
+
 ## 🔧 Tools
 
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Notion](https://skillicons.dev/icons?i=notion)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,notion,vercel" />
+</p>
+
+<br>
 
 ## 📥 Others
 - 📈 Statistics & Hypothesis Testing  
 - 🧹 Exploratory Data Analysis (EDA)  
 - 🤖 Machine Learning Basics (Classification, Regression)  
 - ⚙️ ETL & Automation (Python Scripts)
+
+<br>
 
 ## 🔄 My Workflow as a Data Analyst
 
@@ -61,6 +77,8 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 4. 🔍 Exploratory Data Analysis  
 5. 📊 Analysis / Modeling  
 6. 📢 Visualization & Insight Reporting  
+
+<br>
 
 ## 📊 GitHub Statistics
 
@@ -77,4 +95,24 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-##
+<br>
+
+## ⏱️ WakaTime Coding Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@reynaldi8">
+    <img src="https://wakatime.com/badge/user/018dfa31-cf7e-47b9-a5e6-f0a01fd04ec6.svg" alt="Total time coded" />
+  </a>
+</p>
+
+<br>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reynaldi8&label=Profile%20Views&color=2563eb" alt="Profile Views" />
+</p>
