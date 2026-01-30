@@ -6,16 +6,16 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 "Good data doesn't just answer questions — it opens opportunities."
 
-<h2>🌐 Connect with Me</h2>
+<h2 style="border-bottom: none;">🌐 Connect with Me</h2>
 
 [![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi.main@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldi8)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reynaldi8)
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com/reynaldi8) 
 
-<h2>🛠 Skills</h2>
+<h2 style="border-bottom: none;">🛠 Skills</h2>
 
-<h3>👨‍💻 Programming & Data Analysis</h3>
+<h3 style="border-bottom: none;">👨‍💻 Programming & Data Analysis</h3>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -26,7 +26,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoftmicrosoftsqlserver&logoColor=white" />
 </p>
 
-<h3>📊 Data Visualization & BI</h3>
+<h3 style="border-bottom: none;">📊 Data Visualization & BI</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -35,7 +35,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-<h3>🗄️ Data Handling & Storage</h3>
+<h3 style="border-bottom: none;">🗄️ Data Handling & Storage</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -43,21 +43,21 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-<h2>🔧 Tools</h2>
+<h2 style="border-bottom: none;">🔧 Tools</h2>
 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-<h2>📥 Others</h2>
+<h2 style="border-bottom: none;">📥 Others</h2>
 
 - 📈 Statistics & Hypothesis Testing  
 - 🧹 Exploratory Data Analysis (EDA)  
 - 🤖 Machine Learning Basics (Classification, Regression)  
 - ⚙️ ETL & Automation (Python Scripts)
 
-<h2>🔄 My Workflow as a Data Analyst</h2>
+<h2 style="border-bottom: none;">🔄 My Workflow as a Data Analyst</h2>
 
 1. 🧭 Business Understanding & KPI definition  
 2. 📥 Data Collection (DB, API, CSV, Excel)  
@@ -66,7 +66,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 5. 📊 Analysis / Modeling  
 6. 📢 Visualization & Insight Reporting  
 
-<h2>📊 GitHub Statistics</h2>
+<h2 style="border-bottom: none;">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaldi8&theme=github_dark" alt="GitHub Profile Summary" />
@@ -81,7 +81,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<h2>⏱️ WakaTime Coding Stats</h2>
+<h2 style="border-bottom: none;">⏱️ WakaTime Coding Stats</h2>
 
 <p align="center">
   <a href="https://wakatime.com/@reynaldi8">
@@ -89,7 +89,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   </a>
 </p>
 
-<h2>📈 Contribution Activity</h2>
+<h2 style="border-bottom: none;">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
