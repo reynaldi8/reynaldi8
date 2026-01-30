@@ -14,7 +14,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com/reynaldi8) 
 
 ## 🛠 Skills
-
 ### 👨‍💻 Programming & Data Analysis  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -41,7 +40,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 </p>
 
 ## 🔧 Tools
-
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Notion](https://skillicons.dev/icons?i=notion)
@@ -54,7 +52,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 - ⚙️ ETL & Automation (Python Scripts)
 
 ## 🔄 My Workflow as a Data Analyst
-
 1. 🧭 Business Understanding & KPI definition  
 2. 📥 Data Collection (DB, API, CSV, Excel)  
 3. 🧹 Data Cleaning & Preparation  
@@ -63,7 +60,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 6. 📢 Visualization & Insight Reporting  
 
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaldi8&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
@@ -77,8 +73,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## ⏱️ WakaTime Coding Stats
-
 <p align="center">
   <a href="https://wakatime.com/@reynaldi8">
     <img src="https://wakatime.com/badge/user/018dfa31-cf7e-47b9-a5e6-f0a01fd04ec6.svg" alt="Total time coded" />
@@ -86,7 +80,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 </p>
 
 ## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
