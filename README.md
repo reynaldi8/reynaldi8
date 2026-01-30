@@ -102,6 +102,12 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   </a>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@reynaldi8">
+    <img src="https://wakatime.com/@reynaldi8/1f3b4e0a-b88d-48e2-9bcf-d7e4f1c3e5f1.svg" alt="WakaTime Stats" />
+  </a>
+</p>
+
 ---
 
 ## 📈 Contribution Activity
