@@ -4,16 +4,17 @@ I'm **Reynaldi**, a Management student at **President University** with a strong
 
 My career goal is to become a Data Analyst who can bridge the gap between data and strategy, helping organizations improve efficiency, decision accuracy, and sustainable growth through data-driven approaches.
 
-“Good data doesn’t just answer questions — it opens opportunities.”
+"Good data doesn't just answer questions — it opens opportunities."
 
 ---
 
-### Connect with Me
+## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi.main@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldi8)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reynaldi8)
 [![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com/reynaldi8) 
+
 ---
 
 ## 🛠 Skills
@@ -45,7 +46,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ---
 
-### 📊 Tools
+## 🔧 Tools
 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -54,7 +55,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ---
 
-### 📥 Others
+## 📥 Others
 - 📈 Statistics & Hypothesis Testing  
 - 🧹 Exploratory Data Analysis (EDA)  
 - 🤖 Machine Learning Basics (Classification, Regression)  
@@ -62,7 +63,7 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ---
 
-### My Workflow as a Data Analyst
+## 🔄 My Workflow as a Data Analyst
 
 1. 🧭 Business Understanding & KPI definition  
 2. 📥 Data Collection (DB, API, CSV, Excel)  
@@ -73,28 +74,44 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 
 ---
 
-### 📊 GitHub Statistics
-
 ## 📊 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaldi8&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=reynaldi8&theme=dark)
-
-[![wakatime](https://wakatime.com/badge/user/722ea685-7fb2-45f1-977c-0e6459ba5270.svg)](https://wakatime.com/@reynaldi8)
-
-
-
----
-
-### Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reynaldi8&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reynaldi8&label=Profile%20Views&color=2563eb"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reynaldi8&theme=github_dark" alt="Most Used Languages" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reynaldi8&theme=github_dark" alt="Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reynaldi8&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <a href="https://wakatime.com/@reynaldi8">
+    <img src="https://wakatime.com/badge/user/018dfa31-cf7e-47b9-a5e6-f0a01fd04ec6.svg" alt="Total time coded since Jan 21 2026" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reynaldi8&label=Profile%20Views&color=2563eb" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:e0f2fe,0:93c5fd&height=100&section=footer" />
