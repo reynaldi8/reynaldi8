@@ -21,8 +21,8 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0078D4?style=for-the-badge&logo=microsoftmicrosoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 #### 📊 Data Visualization & BI  
@@ -60,7 +60,8 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
 3. 🧹 Data Cleaning & Preparation  
 4. 🔍 Exploratory Data Analysis  
 5. 📊 Analysis / Modeling  
-6. 📢 Visualization & Insight Reporting  
+6. 📢 Visualization & Insight Reporting
+7. 📖 Storytelling & Presentation
 
 ### 📊 GitHub Statistics
 
