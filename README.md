@@ -84,12 +84,6 @@ My career goal is to become a Data Analyst who can bridge the gap between data a
   </a>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynaldi8&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reynaldi8&label=Profile%20Views&color=2563eb" alt="Profile Views" />
 </p>
