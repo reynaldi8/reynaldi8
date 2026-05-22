@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7c%20Business%20Analyst%&descSize=30&descAlignY=85&stroke=none&strokeWidth=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,100:e0f2fe&height=150&text=Hi,%20I'm%20Reynaldi&fontSize=50&fontColor=1e3a8a&fontAlignY=45&animation=twinkling&desc=Data%20Analyst%20%7C%20Business%20Operation%20%7c%20BI%20Analyst%&descSize=30&descAlignY=85&stroke=none&strokeWidth=0" />
 
 I'm **Reynaldi**, a Management student at **President University** with a strong interest in data analytics, particularly in transforming data into valuable insights for business decision-making. I am experienced in working with data using tools such as Excel, SQL, and data visualization, and I have a solid understanding of business analysis, problem-solving, and data-driven consumer behavior.
 
